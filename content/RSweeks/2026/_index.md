@@ -25,8 +25,22 @@ We encourage you to **recycle existing talks and workshop concepts**.
 - Friday June 5 9:30--13:30 *Version Control with Git*
 
 [Registration](https://terminplaner6.dfn.de/b/607624296a046e952a1bfd7676e5162e-1744589)
+
 [Read More](https://scientificcomputingcharite.github.io/2026-06-01-bua/)
+
 Seminarraum 124, Virchowweg 24, CCM. Get directions with [OpenStreetMap](https://www.openstreetmap.org/?mlat=52.52838093147142&mlon=13.376186054925862&zoom=16) or [Google Maps](https://maps.google.com/maps?q=52.52838093147142,13.376186054925862). What3Words location: [///sensible.bombard.sisters](https://what3words.com/sensible.bombard.sisters)
+
+---
+
+### Formation : Les logiciels de la recherche et les licences : trois visions sur un objet avec un atelier sur les Plans de gestion de logiciels
+- Monday June 1 10:00--12:00
+
+[Registration](https://formations-rh.univ-eiffel.fr/program/training/393/3205)
+
+[Read More in French](https://ligm.univ-eiffel.fr/~teresa/presoft/2026FormationLogicielsRecherche/)
+
+Laboratoire d'informatique Gaspard-Monge, Batîment Copernic, salle 4B125, 4ième étage
+
 
 ---
 
