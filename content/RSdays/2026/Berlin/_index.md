@@ -23,7 +23,7 @@ Registration closed on 2026-05-05. To be placed on the waiting list please send 
 |12:00-12:45| Lunch Break|
 |**12:45-13:00**| **Welcome** <br>*Prof. Manfred Hauswirth  (Steering Committee BUA Objective 3 Advancing Research Quality and Value, TU Berlin, Fraunhofer FOKUS, Weizenbaum-Institut)*|
 |**13:00-13:45**| **Keynote: “Better Software, Better Research”: How Research Software Engineering (RSE) Improves Scientific Practices** <br>*Prof. Anna-Lena Lamprecht (Universität Potsdam)* |
-|**13:45-14:30**| **Networking and Coffee** <br/>with booths by <br/>- [FuturRSI](https://www.futursi.de/)<br/> - [Research Software Engineering Award](https://rse.gi.de/rse-award) der [Klaus Tschira Stiftung](https://klaus-tschira-stiftung.de/)<br> - [Open Research Office Berlin](https://www.open-research-berlin.de/) <br> - Wikimedia & Research Software Discovery|
+|**13:45-14:30**| **Networking and Coffee** <br/>with booths by <br/>- [FuturRSI](https://www.futursi.de/)<br/> - [Research Software Engineering Award](https://rse.gi.de/rse-award) der [Klaus Tschira Stiftung](https://klaus-tschira-stiftung.de/)<br> - [Open Research Office Berlin](https://www.open-research-berlin.de/) <br> - Wikimedia & Research Software Discovery <br/> - Digital Humanities Berlin |
 |**14:30-15:30**| **Session 2: Workshops, Talks and Meetups**
 | |**(2.1) Unveiling the Iceberg: Enhancing the Quality and Visibility of Research Software at Helmholtz** <br>*Antonia Schrader (Helmholtz Open Science Office)*|
 | |**(2.2) Connecting the Dots: Publications, Data, Models, and Code in the GenAI Era** <br>*Prof. Sonja Schimmler (TU Berlin, Fraunhofer FOKUS, Weizenbaum-Institut), Dr. Angelie Kraft (Weizenbaum-Institut)*|
@@ -38,12 +38,6 @@ Registration closed on 2026-05-05. To be placed on the waiting list please send 
 |17:00-17:15| Wrap-up and Closing |
 
 
-## Research Software Projects
-
-To give visibility to the software projects by research software engineers in Berlin and Brandenburg, you can send us one slide. 
-We’ll compile a slideshow with all projects, which will be shown during the breaks at various screens at the venue. Afterwards, the slideshow will be uploaded to the Zenodo community of the event.
-If you want to participate, please send a pdf-file created from a slide in 16:9 format to claudia.goebel [at] berlin-university-alliance [dot] de until 17.05.2026. The slide (pdf) should only contain key information: Name of the software, your name, link to the repository/website/DOI, purpose and what your software does in max. three short bullet points, your contact info if you want to share it, any highlight of your software people should know about in max. 3 short bullet points, any nice visual. Please have in mind that each slide needs to be comprehensible within a few seconds, so limiting text and using easy, an eye-catching visual (not a complicated one) is recommended.
-By sending the slide you agree to the slide show being published in Zenodo under a CC-BY license (if you wish to make your slide public domain ([CC0](https://creativecommons.org/publicdomain/list.en#publicdomain-cc0-10)), please include the corresponding licensing info on your slide).
 
 
 ## Location
