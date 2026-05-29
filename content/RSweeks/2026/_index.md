@@ -56,7 +56,7 @@ Nach einer kurzen Einführung zu Prinzipien und Bedeutung von Patenten wird die 
 ### Code Review and Sustainability in the Digital Humanities Publication Landscape
 - Thursday 16:00--17:00
 
-[Registration])(https://asu.zoom.us/meeting/register/heP_utGnSBScRLtGGXlwZg)
+[Registration](https://asu.zoom.us/meeting/register/heP_utGnSBScRLtGGXlwZg)
 
 Are you developing code for Digital Humanities research? Have you ever thought about publishing your code? Do you wish code would be more reusable, visible, and impactful? Join our upcoming webinar to explore how code review and publication practices could transform how we think about code written for research. We’ll discuss how publication requirements contribute to reusability and sustainability of code written for research and how they increase the visibility of code as a valuable part of research output. We will hear from leading initiatives as they share their experiences: How did they get started with code review? What processes do they use? Who submits code, and what has been the impact? Where are they headed next? We’ll also explore the role of journals like DSH, CHR, and Cultural Analytics, as well as conferences, in promoting code review practices. Should these platforms require code review? Join the conversation and share your thoughts!
 
