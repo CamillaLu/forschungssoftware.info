@@ -41,6 +41,28 @@ Seminarraum 124, Virchowweg 24, CCM. Get directions with [OpenStreetMap](https:/
 
 Laboratoire d'informatique Gaspard-Monge, Batîment Copernic, salle 4B125, 4ième étage
 
+---
+### (Mit) Software patentieren
+- Wednesday June 3 13:00--14:15
+
+[Registration limited to BUA member organizations](mailto:innovation@hu-berlin.de) (mention day and title)
+
+Location will be online and details will be sent out before the event
+
+Nach einer kurzen Einführung zu Prinzipien und Bedeutung von Patenten wird die Patentierbarkeit von Software-Erfindungen in den Blick genommen. Dabei werden die geltenden Voraussetzungen, mögliche Schutzformen und typische Fallstricke erläutert. Die dargestellten Konzepte sind breit anwendbar auf Erfindungen zu Apps, Computerprogrammen, Algorithmen sowie Steuerungssystemen. Dies gilt insbesondere für Erfindungen, die zumindest teilweise über Software gesteuert oder realisiert werden. Abschließend wird die Patentierung von KI-Systemen, exemplarisch anhand künstlicher neuronaler Netze, behandelt.
+
+---
+
+### Code Review and Sustainability in the Digital Humanities Publication Landscape
+- Thursday 16:00--17:00
+
+[Registration])(https://asu.zoom.us/meeting/register/heP_utGnSBScRLtGGXlwZg)
+
+Are you developing code for Digital Humanities research? Have you ever thought about publishing your code? Do you wish code would be more reusable, visible, and impactful? Join our upcoming webinar to explore how code review and publication practices could transform how we think about code written for research. We’ll discuss how publication requirements contribute to reusability and sustainability of code written for research and how they increase the visibility of code as a valuable part of research output. We will hear from leading initiatives as they share their experiences: How did they get started with code review? What processes do they use? Who submits code, and what has been the impact? Where are they headed next? We’ll also explore the role of journals like DSH, CHR, and Cultural Analytics, as well as conferences, in promoting code review practices. Should these platforms require code review? Join the conversation and share your thoughts!
+
+
+[Read more](https://dh-tech.github.io/)
+
 
 ---
 
