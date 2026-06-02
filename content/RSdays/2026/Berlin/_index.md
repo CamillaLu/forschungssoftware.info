@@ -17,24 +17,25 @@ Registration closed on 2026-05-05. To be placed on the waiting list please send 
 |---|---|
 |From 08:30| Arrival & Coffee |
 |**09:00-12:00**| **Session 1: Hands-on Trainings** |
-| |**(1.1) Rechtsfragen bei Forschungssoftware: Urheberrecht, Open Source, Lizenzen und Compliance (in German language)** <br>*Till Kreutzer (iRights)*|
-| |**(1.2) National High-Performance Computing (NHR): HPC and AI at NHR@ZIB** <br>*Steffen Christgau, Anirudh Krishnadas and Georgios Nikolis (all ZIB)* |
-| |**(1.3) How to create better code for better research? Where Small Steps Make Big Differences in Software Quality and Workflow Quality** <br>*Robert Casties (MPIWG), Julia Damerow (Arizona State), Daniel Nüst (TU Dresden), Malte Vogl (MPI Geoanthropology)*|
+|2.04/2.05 |**(1.1) Rechtsfragen bei Forschungssoftware: Urheberrecht, Open Source, Lizenzen und Compliance (in German language)** <br>*Till Kreutzer (iRights)*|
+| 2.20 |**(1.2) National High-Performance Computing (NHR): HPC and AI at NHR@ZIB** <br>*Steffen Christgau, Anirudh Krishnadas and Georgios Nikolis (all ZIB)* |
+| Central Lab|**(1.3) How to create better code for better research? Where Small Steps Make Big Differences in Software Quality and Workflow Quality** <br>*Robert Casties (MPIWG), Julia Damerow (Arizona State), Daniel Nüst (TU Dresden), Malte Vogl (MPI Geoanthropology)*|
 |12:00-12:45| Lunch Break|
 |**12:45-13:00**| **Welcome** <br>*Prof. Manfred Hauswirth  (Steering Committee BUA Objective 3 Advancing Research Quality and Value, TU Berlin, Fraunhofer FOKUS, Weizenbaum-Institut)*|
 |**13:00-13:45**| **Keynote: “Better Software, Better Research”: How Research Software Engineering (RSE) Improves Scientific Practices** <br>*Prof. Anna-Lena Lamprecht (Universität Potsdam)* |
 |**13:45-14:30**| **Networking and Coffee** <br/>with booths by <br/>- [FuturRSI](https://www.futursi.de/)<br/> - [Research Software Engineering Award](https://rse.gi.de/rse-award) der [Klaus Tschira Stiftung](https://klaus-tschira-stiftung.de/)<br> - [Open Research Office Berlin](https://www.open-research-berlin.de/) <br> - Wikimedia & Research Software Discovery <br/> - Digital Humanities Berlin |
+|14:00-14:30| *Matters of Activity* Showroom tour|
 |**14:30-15:30**| **Session 2: Workshops, Talks and Meetups**
-| |**(2.1) Unveiling the Iceberg: Enhancing the Quality and Visibility of Research Software at Helmholtz** <br>*Antonia Schrader (Helmholtz Open Science Office)*|
-| |**(2.2) Connecting the Dots: Publications, Data, Models, and Code in the GenAI Era** <br>*Prof. Sonja Schimmler (TU Berlin, Fraunhofer FOKUS, Weizenbaum-Institut), Dr. Angelie Kraft (Weizenbaum-Institut)*|
-| |**(2.3) RSE Education: Into the Light** <br>*Julian Dehne (GI), Magnus Hagdorn (Charité), Nick Del Grosso (University of Bonn, ibehave.nrw)*|
-| |**(2.4) Reproducible Computational Analyses** <br>*Jochen Knaus (Weizenbaum-Institut)*|
+| 2.20 |**(2.1) Unveiling the Iceberg: Enhancing the Quality and Visibility of Research Software at Helmholtz** <br>*Antonia Schrader (Helmholtz Open Science Office)*|
+| Central Lab |**(2.2) Connecting the Dots: Publications, Data, Models, and Code in the GenAI Era** <br>*Prof. Sonja Schimmler (TU Berlin, Fraunhofer FOKUS, Weizenbaum-Institut), Dr. Angelie Kraft (Weizenbaum-Institut)*|
+| 2.19|**(2.3) RSE Education: Into the Light** <br>*Julian Dehne (GI), Magnus Hagdorn (Charité), Nick Del Grosso (University of Bonn, ibehave.nrw)*|
+| 2.04/2.05|**(2.4) Reproducible Computational Analyses** <br>*Jochen Knaus (Weizenbaum-Institut)*|
 |15:30-16:00| Coffee Break |
 |**16:00-17:00**| **Session 3: Workshops, Talks and Meetups**
-| |**(3.1) From Experiment to Ecosystem: HU’s AI Service Infrastructure** <br>*Malte Dreyer (HU Berlin)*|
-| |**(3.2) AI Research Governance. Responsiblity, regulation and guidelines in context of research developments** <br>*Carolin Odebrecht (HU Berlin)*|
-| |**(3.3) 20 years of Open Source - lessons learned** <br>*Max Moorkamp (TU Berlin)*|
-| |**(3.4) Open Networking. Visit the booths!**|
+| 2.20|**(3.1) From Experiment to Ecosystem: HU’s AI Service Infrastructure** <br>*Malte Dreyer (HU Berlin)*|
+| 2.04/2.05|**(3.2) AI Research Governance. Responsiblity, regulation and guidelines in context of research developments** <br>*Carolin Odebrecht (HU Berlin)*|
+| 2.19|**(3.3) 20 years of Open Source - lessons learned** <br>*Max Moorkamp (TU Berlin)*|
+| Central Lab|**(3.4) Open Networking. Visit the booths!**|
 |17:00-17:15| Wrap-up and Closing |
 
 
