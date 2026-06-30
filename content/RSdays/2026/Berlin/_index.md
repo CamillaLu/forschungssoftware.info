@@ -17,32 +17,28 @@ Registration closed on 2026-05-05. To be placed on the waiting list please send 
 |---|---|
 |From 08:30| Arrival & Coffee |
 |**09:00-12:00**| **Session 1: Hands-on Trainings** |
-| |**(1.1) Rechtsfragen bei Forschungssoftware: Urheberrecht, Open Source, Lizenzen und Compliance (in German language)** <br>*Till Kreutzer (iRights)*|
-| |**(1.2) National High-Performance Computing (NHR): HPC and AI at NHR@ZIB** <br>*Steffen Christgau, Anirudh Krishnadas and Georgios Nikolis (all ZIB)* |
-| |**(1.3) How to create better code for better research? Where Small Steps Make Big Differences in Software Quality and Workflow Quality** <br>*Robert Casties (MPIWG), Julia Damerow (Arizona State), Daniel Nüst (TU Dresden), Malte Vogl (MPI Geoanthropology)*|
+|2.04/2.05 |**(1.1) Rechtsfragen bei Forschungssoftware: Urheberrecht, Open Source, Lizenzen und Compliance (in German language)** <br>*Till Kreutzer (iRights)*|
+| 2.20 |**(1.2) National High-Performance Computing (NHR): HPC and AI at NHR@ZIB** <br>*Steffen Christgau, Anirudh Krishnadas and Georgios Nikolis (all ZIB)* |
+| Central Lab|**(1.3) How to create better code for better research? Where Small Steps Make Big Differences in Software Quality and Workflow Quality** <br>*Robert Casties (MPIWG), Julia Damerow (Arizona State), Daniel Nüst (TU Dresden), Malte Vogl (MPI Geoanthropology)*|
 |12:00-12:45| Lunch Break|
 |**12:45-13:00**| **Welcome** <br>*Prof. Manfred Hauswirth  (Steering Committee BUA Objective 3 Advancing Research Quality and Value, TU Berlin, Fraunhofer FOKUS, Weizenbaum-Institut)*|
 |**13:00-13:45**| **Keynote: “Better Software, Better Research”: How Research Software Engineering (RSE) Improves Scientific Practices** <br>*Prof. Anna-Lena Lamprecht (Universität Potsdam)* |
-|**13:45-14:30**| **Networking and Coffee** <br/>with booths by <br/>- [FuturRSI](https://www.futursi.de/)<br/> - [Research Software Engineering Award](https://rse.gi.de/rse-award) der [Klaus Tschira Stiftung](https://klaus-tschira-stiftung.de/)<br> - [Open Research Office Berlin](https://www.open-research-berlin.de/) <br> - Wikimedia & Research Software Discovery|
+|**13:45-14:30**| **Networking and Coffee** <br/>with booths by <br/>- [FuturRSI](https://www.futursi.de/)<br/> - [Research Software Engineering Award](https://rse.gi.de/rse-award) der [Klaus Tschira Stiftung](https://klaus-tschira-stiftung.de/)<br> - [Open Research Office Berlin](https://www.open-research-berlin.de/) <br> - Wikimedia & Research Software Discovery <br/> - Digital Humanities Berlin |
+|14:00-14:30| *Matters of Activity* Showroom tour|
 |**14:30-15:30**| **Session 2: Workshops, Talks and Meetups**
-| |**(2.1) Unveiling the Iceberg: Enhancing the Quality and Visibility of Research Software at Helmholtz** <br>*Antonia Schrader (Helmholtz Open Science Office)*|
-| |**(2.2) Connecting the Dots: Publications, Data, Models, and Code in the GenAI Era** <br>*Prof. Sonja Schimmler (TU Berlin, Fraunhofer FOKUS, Weizenbaum-Institut), Dr. Angelie Kraft (Weizenbaum-Institut)*|
-| |**(2.3) RSE Education: Into the Light** <br>*Julian Dehne (GI), Magnus Hagdorn (Charité), Nick Del Grosso (University of Bonn, ibehave.nrw)*|
-| |**(2.4) Reproducible Computational Analyses** <br>*Jochen Knaus (Weizenbaum-Institut)*|
+| 2.20 |**(2.1) Unveiling the Iceberg: Enhancing the Quality and Visibility of Research Software at Helmholtz** <br>*Antonia Schrader (Helmholtz Open Science Office)*|
+| Central Lab |**(2.2) Connecting the Dots: Publications, Data, Models, and Code in the GenAI Era** <br>*Prof. Sonja Schimmler (TU Berlin, Fraunhofer FOKUS, Weizenbaum-Institut), Dr. Angelie Kraft (Weizenbaum-Institut)*|
+| 2.19|**(2.3) RSE Education: Into the Light** <br>*Julian Dehne (GI), Magnus Hagdorn (Charité), Nick Del Grosso (University of Bonn, ibehave.nrw)*|
+| 2.04/2.05|**(2.4) Reproducible Computational Analyses** <br>*Jochen Knaus (Weizenbaum-Institut)*|
 |15:30-16:00| Coffee Break |
 |**16:00-17:00**| **Session 3: Workshops, Talks and Meetups**
-| |**(3.1) From Experiment to Ecosystem: HU’s AI Service Infrastructure** <br>*Malte Dreyer (HU Berlin)*|
-| |**(3.2) AI Research Governance. Responsiblity, regulation and guidelines in context of research developments** <br>*Carolin Odebrecht (HU Berlin)*|
-| |**(3.3) 20 years of Open Source - lessons learned** <br>*Max Moorkamp (TU Berlin)*|
+| 2.20|**(3.1) From Experiment to Ecosystem: HU’s AI Service Infrastructure** <br>*Malte Dreyer (HU Berlin)*|
+| 2.04/2.05|**(3.2) AI Research Governance. Responsiblity, regulation and guidelines in context of research developments** <br>*Carolin Odebrecht (HU Berlin)*|
+| 2.19|**(3.3) 20 years of Open Source - lessons learned** <br>*Max Moorkamp (TU Berlin)*|
+| Central Lab|**(3.4) Open Networking. Visit the booths!**|
 |17:00-17:15| Wrap-up and Closing |
 
 
-## Research Software Projects
-
-To give visibility to the software projects by research software engineers in Berlin and Brandenburg, you can send us one slide. 
-We’ll compile a slideshow with all projects, which will be shown during the breaks at various screens at the venue. Afterwards, the slideshow will be uploaded to the Zenodo community of the event.
-If you want to participate, please send a pdf-file created from a slide in 16:9 format to claudia.goebel [at] berlin-university-alliance [dot] de until 17.05.2026. The slide (pdf) should only contain key information: Name of the software, your name, link to the repository/website/DOI, purpose and what your software does in max. three short bullet points, your contact info if you want to share it, any highlight of your software people should know about in max. 3 short bullet points, any nice visual. Please have in mind that each slide needs to be comprehensible within a few seconds, so limiting text and using easy, an eye-catching visual (not a complicated one) is recommended.
-By sending the slide you agree to the slide show being published in Zenodo under a CC-BY license (if you wish to make your slide public domain ([CC0](https://creativecommons.org/publicdomain/list.en#publicdomain-cc0-10)), please include the corresponding licensing info on your slide).
 
 
 ## Location
@@ -84,8 +80,8 @@ The National High‑Performance Computing Initiative (NHR) offers free, large‑
 The Berlin node—NHR@ZIB—resides at the Zuse Institute Berlin (ZIB) and operates the LISE supercomputer. In this session we will present an overview of the NHR’s mission, governance and infrastructure, followed by a detailed look at the services available through NHR@ZIB. We will illustrate how HPC and AI are applied in natural and life sciences through concrete use‑case examples, highlighting the impact of high‑performance resources on research outcomes.
 
 **(1.3) How to create better code for better research? Where Small Steps Make Big Differences in Software Quality and Workflow Quality**<br>*Robert Casties (MPIWG), Julia Damerow (Arizona State), Daniel Nüst (TU Dresden), Malte Vogl (MPI Geoanthropology)*
-When in the research lifecycle do small interventions yield the largest gains in code, workflow, and research quality? This hands-on session explores that question by combining two complementary initiatives: CODECHECK (https://codecheck.org.uk/), which independently checks 
-computational workflows as part of peer review, and the DHTech Code Review Working Group (https://dhcodereview.github.io/), which provides collaborative code review for in-progress research software. After introducing both initiatives, we examine diverse perspectives on what 
+When in the research lifecycle do small interventions yield the largest gains in code, workflow, and research quality? This hands-on session explores that question by combining two complementary initiatives: CODECHECK https://codecheck.org.uk/, which independently checks 
+computational workflows as part of peer review, and the DHTech Code Review Working Group https://dhcodereview.github.io/, which provides collaborative code review for in-progress research software. After introducing both initiatives, we examine diverse perspectives on what 
 "good software/workflows" means in research contexts, discuss incentives and benefits, and identify practical, low-barrier quality improvements that individual researchers/developers as well as communities can adopt.
 
 
