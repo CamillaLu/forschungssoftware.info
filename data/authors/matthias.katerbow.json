@@ -1,3 +1,7 @@
 {
-    "name": "Matthias Katerbow"
+    "name": "Dr. Matthias Katerbow",
+    "bio": "Programmdirektor der DFG",
+    "social": [
+        {"expand": "https://www.dfg.de/de/ueber-uns/geschaeftsstelle/personen/dr-matthias-katerbow-165712"}
+    ]
 }

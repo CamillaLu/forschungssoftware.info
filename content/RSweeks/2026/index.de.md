@@ -1,4 +1,13 @@
-# Research Software Week 2026: June 1st--5th
+---
+title: "First Research Software Week: June 1st--5th 2026"
+date: 2026-06-01
+groupByYear: false
+showDate: true
+hero: false
+draft: false
+showReadingTime: false
+showWordCount: false
+---
 
 ## About
 
