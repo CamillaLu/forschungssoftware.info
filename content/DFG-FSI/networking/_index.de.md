@@ -1,4 +1,6 @@
-# Vernetzung von Projekten der DFG Forschungssoftwareinfrastrukturen
+---
+title: "Vernetzung von Projekten der DFG Forschungssoftwareinfrastrukturen"
+---
 
 Damit Projekte des Förderprogramms „[Forschungssoftwareinfrastrukturen](https://www.dfg.de/de/foerderung/foerdermoeglichkeiten/programme/infrastruktur/lis/lis-foerderangebote/forschungssoftwareinfrastrukturen)“ die Möglichkeit haben, sich miteinander zu vernetzen und so zu einer kohärenten deutschlandweiten Forschungssoftwareinfrastruktur beizutragen, wurden primär zwei Kommunikationskanäle für Kommunikation der Projekte untereinander eingerichtet.
 

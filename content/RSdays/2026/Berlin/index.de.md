@@ -1,7 +1,17 @@
-# First Research Software Day Berlin & Brandenburg, 3 June 2026
+---
+title: "First Research Software Day Berlin & Brandenburg"
+date: 2026-06-03
+groupByYear: false
+showDate: true
+hero: false
+draft: false
+showReadingTime: false
+showWordCount: false
+authors:
+    - "alexander.struck"
+---
 
 ----
-
 Update:
 Material has been uploaded to this [Zenodo Community](https://zenodo.org/communities/rsday2026/).
 If you want to shape future RS Days in the area, please [join the mailing list](https://www.listserv.dfn.de/sympa/info/researchsoftwaredaybbb).

@@ -1,0 +1,24 @@
+[[main]]
+name = "Research Software Weeks"
+pageRef = "RSWeeks"
+weight = 80
+
+
+[[main]]
+name = "Research Software Days"
+pageRef = "RSDays"
+weight = 90
+
+
+[[main]]
+name = "DFG FSI"
+pageRef = "DFG-FSI"
+weight = 100
+
+[[main]]
+pre = "github"
+url = "https://github.com/DE-RSE/forschungssoftware.info"
+weight = 110
+
+[[footer]]
+none = "none"
